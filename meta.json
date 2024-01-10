@@ -1,4 +1,9 @@
 {
-  "version": "4b5d3d6",
-  "win": "https://raw.githubusercontent.com/smirk-cat/meta/menu/win.zip"
+  "launcher": "1",
+  "win": {
+    "version": "1.5-beta.7",
+    "download": "https://cdn.discordapp.com/attachments/1120155224296914944/1194766056036782121/sctmods.dll",
+    "gd_version": "2.202",
+    "gd_download": "https://cdn.discordapp.com/attachments/1120155224296914944/1194765746182557766/2.202.zip"
+  }
 }
